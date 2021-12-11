@@ -1,0 +1,39 @@
+h1{                    
+   color:red 
+} 
+body{
+  background-image:url("https://www.teahub.io/photos/full/26-263385_light-colour-background-images-hd-light-color-background.jpg"); 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.header{
+background-color:#BAF6F7;
+display:flex;
+justify-content:space-between;
+}
+
+.grid{
+
+display:flex ;
+flex-wrap: wrap;
+justify-content:space-evenly ;
+
+}
+
+.footer{
+
+display: flex;
+justify-content:flex-end;
+
+}
+
+p,h2{
+  color:rgb(63, 63, 63);
+  text-align: center;
+}
+
+
+
+
+
